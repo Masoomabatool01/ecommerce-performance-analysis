@@ -6,7 +6,7 @@ An end-to-end analysis of Brazilian e-commerce data using **Python, SQL, and Pow
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the **Brazilian E-Commerce Public Dataset by Olist**, a large transactional dataset containing information about orders, customers, payments, reviews, products, sellers, and order items.
 
@@ -18,7 +18,7 @@ The final Power BI dashboard provides an executive-level view of operational per
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The analysis focuses on understanding:
 
@@ -32,7 +32,7 @@ The analysis focuses on understanding:
 
 ---
 
-## 📊 Key Performance Indicators
+##  Key Performance Indicators
 
 | KPI | Result |
 |---|---:|
@@ -44,7 +44,7 @@ The analysis focuses on understanding:
 
 ---
 
-## 🔍 Key Business Insights
+##  Key Business Insights
 
 ### Order Performance
 
@@ -80,7 +80,7 @@ The review distribution is strongly concentrated around high ratings, with 5-sta
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -92,7 +92,7 @@ The review distribution is strongly concentrated around high ratings, with 5-sta
 
 ---
 
-## 🔄 Analytical Workflow
+##  Analytical Workflow
 
 ### 1. Data Exploration & Preparation — Python
 
@@ -183,7 +183,7 @@ The dashboard was designed as an executive overview with a clean, business-focus
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 ```text
 ecommerce-performance-analysis/
@@ -210,7 +210,7 @@ ecommerce-performance-analysis/
 
 ---
 
-## 💡 Business Takeaways
+##  Business Takeaways
 
 The analysis highlights several important patterns:
 
@@ -224,7 +224,7 @@ These findings demonstrate how transactional e-commerce data can be transformed 
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning & Validation
 - Exploratory Data Analysis
@@ -243,7 +243,7 @@ These findings demonstrate how transactional e-commerce data can be transformed 
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from raw transactional data through data exploration, SQL analysis, metric validation, Power BI modeling, and executive reporting.
 
